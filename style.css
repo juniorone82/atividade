@@ -1,0 +1,7 @@
+.imagens {
+    display: flexbox;
+    }
+    .imagens img {
+    width: 400px;
+    height: auto;
+    }
